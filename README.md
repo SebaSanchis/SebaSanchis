@@ -1,10 +1,25 @@
-### Hi there, I'm Seba 👋
+<h2> Hi there, I'm Seba! 👋</h2>
+<img align='right' src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
+<p><em>Jr. Full Stack Developer (MERN) with experience in frontend-oriented web development languages.</em></p>
 
-- 🔭 I’m currently working on GraphQL, but I’m also interested in other technologies.
-- 🌱 I’m currently learning: Next.js and improving my skills with TypeScript.
-- 💬 Ask me about: HTML, CSS and JavaScript, React, NodeJS.
-- 📫 How to reach me: drop me a line to seba.sanchis@gmail.com
+[![Linkedin: sebastian-sanchis](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-sanchis/)](https://www.linkedin.com/in/sebastian-sanchis/)
+[![GitHub sebastian-sanchis](https://img.shields.io/github/followers/seba-sanchis?label=follow&style=social)](https://github.com/sebastian-sanchis)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seba-sanchis)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seba-sanchis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### A little more about me...  
+
+```javascript
+const seba = {
+  pronouns: "he" | "him",
+  code: [CSS, HTML, Javascript, Typescript],
+  tools: {
+    frontend: {},
+    backend: {},
+  },
+  database: {},
+  cloudComputing: {},
+}
+```
+
+---
+
