@@ -3,8 +3,7 @@
 <p><em>Jr. Full Stack Developer (MERN) with experience in frontend-oriented web development languages.</em></p>
 
 [![Linkedin: sebastian-sanchis](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-sanchis/)](https://www.linkedin.com/in/sebastian-sanchis/)
-[![GitHub sebastian-sanchis](https://img.shields.io/github/followers/seba-sanchis?label=follow&style=social)](https://github.com/sebastian-sanchis)
-
+[![GitHub seba-sanchis](https://img.shields.io/github/followers/seba-sanchis?label=follow&style=social)](https://github.com/seba-sanchis)
 
 ### A little more about me...  
 
