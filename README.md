@@ -26,10 +26,12 @@ const seba = {
       },
       databases: {
         SQL: {
-          MySQL: "Sequelize",
+          DBMS: ["MySQL", "PostgreSQL"],
+          ORM: "Sequelize",
         },
         NoSQL: {
-          MongoDB: "Mongoose",
+          DBMS: "MongoDB",
+          ODM: "Mongoose",
         },
       },
       htmlTemplatingEngine: "EJS",
