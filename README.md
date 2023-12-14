@@ -10,14 +10,14 @@
 ```javascript
 const seba = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "CSS", "HTML"],
+  code: ["CSS", "HTML", "Javascript", "Typescript"],
   tools: {
     frontend: {
       cssFramework: "Tailwind CSS",
       cssPreprocessor: "Sass",
-      javascriptFrameworks: ["React", "NextJS"],
+      javascriptFrameworks: ["Angular", "NextJS", "React"],
       reactUIFramework: "Material UI",
-      reactPackages: ["React Router", "Axios", "styled-components"],
+      reactPackages: ["Axios", "React Router", "styled-components"],
       stateManagement: "Redux",
     },
     backend: {
@@ -26,7 +26,7 @@ const seba = {
       },
       databases: {
         SQL: {
-          DBMS: ["MySQL", "PostgreSQL"],
+          DBMS: ["PostgreSQL"],
           ORM: "Sequelize",
         },
         NoSQL: {
