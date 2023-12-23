@@ -26,7 +26,7 @@ const seba = {
       },
       databases: {
         SQL: {
-          DBMS: ["PostgreSQL"],
+          DBMS: "PostgreSQL",
           ORM: "Sequelize",
         },
         NoSQL: {
