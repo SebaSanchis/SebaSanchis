@@ -15,7 +15,7 @@ const seba = {
     frontend: {
       cssFramework: "Tailwind CSS",
       cssPreprocessor: "Sass",
-      javascriptFrameworks: ["Angular", "NextJS", "React"],
+      javascriptFrameworks: ["Angular", "NextJS", "React", "React Native"],
       reactUIFramework: "Material UI",
       reactPackages: ["Axios", "React Router", "styled-components"],
       stateManagement: "Redux",
